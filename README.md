@@ -7,3 +7,7 @@ This is a demo repo for sharing ideas around communication
 * One
 * Two
 * Three
+
+### Gist 
+This is a good example of [my code](https://gist.github.com/sammiekiogora/827a868523c9ceb9d1ffe7d9c7187aff)
+
