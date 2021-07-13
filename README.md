@@ -14,3 +14,5 @@ This is a good example of [my code](https://gist.github.com/sammiekiogora/827a86
 ### Colab Example
 This is the [notebook](https://github.com/sammiekiogora/technical-discussion/blob/main/technical_docs.ipynb)
 
+### Image
+https://user-images.githubusercontent.com/2780318/125508540-58165799-73b4-41ab-a8bc-bdb8f952589c.png
